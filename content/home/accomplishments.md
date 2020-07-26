@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -21,31 +21,31 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Applied Data Science with Python"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/JX8ZE3XUYARG"
+  date_start = "2020-05-01"
+  date_end = "Apply statistical, machine learning, information visualization using pandas, matplotlib, scikit-learn"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Deep Learning"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/SUJ6KLFS4ZX3"
+  date_start = "2020-07-04"
+  date_end = ""
+  description = "Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization and case study"
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Machine Learning with TensorFlow on Google Cloud Platform"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/3MUQF23N6Z27"
+  date_start = "2020-06-25"
+  date_end = ""
   description = ""
 
 +++
