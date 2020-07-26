@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: William Zheng
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student of Business Finance and Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Sheffield
+  url: "https://www.sheffield.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My study will focus on Data Science and Machine Learning
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Machine Learning
+- Deep Learning
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSC in Business Finance and Economics
+    institution: University of Sheffield
+    year: 2020
+  - course: Business Administration
+    institution: Shanghai Lixin University of Accounting and Finance
+    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +43,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:williamguanhao@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/william-zheng-022130126/
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+William Zheng is obsessed with Data Science and Machine Learning. He firmly believes that Data Science and Machine Learning are the electricity of this generation, which will rebuild the world. Even though his major doesn’t exactly match, he is willing to devote himself and exhaust all the resources to become a Data Scientist.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In Oct. 2020, he will further his study in the University of Sheffield major in Business Finance and Economics. To strength the knowledge in the field, he is currently studying FRM(Financial Risk Management).Ultimately his plan is to start a New Career from Data Analyst in Finance.
