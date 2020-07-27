@@ -21,22 +21,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Applied Data Science with Python"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/JX8ZE3XUYARG"
-  date_start = "2020-05-01"
-  date_end = ""
-  description = "Apply statistical, machine learning, information visualization using pandas, matplotlib, scikit-learn"
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
   title = "Deep Learning"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/SUJ6KLFS4ZX3"
   date_start = "2020-07-04"
   date_end = ""
   description = "Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization and case study"
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Applied Data Science with Python"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/JX8ZE3XUYARG"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = "Apply statistical, machine learning, information visualization using pandas, matplotlib, scikit-learn"
 
 [[item]]
   organization = "Coursera"
